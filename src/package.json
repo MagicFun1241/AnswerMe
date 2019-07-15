@@ -1,0 +1,19 @@
+{
+  "name": "AnswerMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "MagicFun1241",
+  "license": "ISC",
+  "dependencies": {
+    "easyvk": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
